@@ -269,8 +269,8 @@
 		592B4E4F27132BF400BBF5BA /* colorful-room */ = {
 			isa = PBXGroup;
 			children = (
-				592EC75A2756631900631D09 /* TextAlert */,
 				597CABA0271E733C008E9588 /* Info.plist */,
+				592EC75A2756631900631D09 /* TextAlert */,
 				59B31A79271DA892002DADE8 /* UI */,
 				59B31A86271DA892002DADE8 /* Utility */,
 				59B31A7E271DA892002DADE8 /* view */,
